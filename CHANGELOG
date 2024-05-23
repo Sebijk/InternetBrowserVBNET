@@ -1,0 +1,88 @@
+This CHANGELOG lists only the changes of the VB.net Edition
+Hier werden nur die Änderungen der VB.net Edition aufgelistet
+
+Version 0.30
+ - Lizenziert unter der GPL
+ - veraltete Links (Youtube, ICQ Invisible Checker, Windows Update) entfernt
+ - Upgrade der Basis von VB 2008 auf VB 2015
+ - Grafiken ersetzt durch freie Grafiken
+
+Version 0.29
+ - Gecko-Engine auf den neusten Stand gebracht (1.9.1.2)
+ - Rückgängig und Wiederholen benutzbar (nur Gecko)
+ - ICQ Invisible Checker hinzugefügt
+ - Youtube HD-Downloader hinzugefügt
+ 
+Version 0.28
+ - Gecko-Engine auf den neusten Stand gebracht (1.9.0.11)
+ - Gecko-Engine nutzt nun den Download-Manager von Firefox.
+ - Neues Fenster öffnen mit der Gecko-Engine klappt jetzt (experimentell)
+ - Gecko-Fehlermeldungen werden jetzt direkt im Browser angezeigt
+ - Ladebalken nun auch mit der Gecko-Engine funktionstüchtig (mehr oder weniger).
+ - Fehler bzgl. Absturz in 64-Bit Betriebsystemen behoben.
+ - Server anpingen-Funktion verbessert.
+ 
+Version 0.27
+ - Gecko-Engine verfügbar
+ - Tastaturkürzungen für Ausschneiden, Einfügen und Kopieren verschoben
+ - Media Player: Menüpunkt Eigenschaften hinzugefügt
+ - Optionsdialog hinzugefügt
+ - Verbesserter Quelltextleser
+ 
+Version 0.26
+ - Media Player verbessert und nun unter Extras zu finden
+ - Paar kleine kosmetische Korrekturen im Cookie-Manager vorgenommen
+ - Änderungen und Cookie anzeigen für die aktuelle Seite hinzugefügt
+ - Server anpingen und Verbindungen verfolgen hinzugefügt
+ - Abfrage zur Bestätigung von neues Fenster öffnen hinzugefügt
+ - Unter Hilfe Link zum Supportform hinzugefügt
+
+Version 0.25
+ - Projekt auf Visual Basic 2008 aktualisiert
+ - Zurück-Button verbessert.
+ - Weiter-Button verbessert.
+ - Cookie-Betrachter hinzugefügt
+ - WHOIS-Suche hinzugefügt
+ - Bearbeiten-Menü nun benutzbar gemacht
+ - Alles auswählen, Ausschneiden, Kopieren und Einfügen nun verfügbar
+ - Wenn man auf einen externen Link klickt, wird jetzt das neue
+ - Fenster nun im Sebijks Internet-Browser statt im Internet Explorer geöffnet.
+
+Version 0.24
+ - Media Player vorübergehend deaktiviert.
+ - IP-Adressenanzeiger hinzugefügt.
+ - Alle schließen Befehl im Menü hinzugefügt.
+ - Schließen Befehl im Menü hinzugefügt.
+ - Seiteneigenschaften hinzugefügt.
+ - Link per E-Mail senden hinzugefügt.
+ - Quelltextanzeiger hinzugefügt.
+ - RSS-Reader hinzugefügt.
+ - Jetzt mit Installierungsprogramm.
+
+Version 0.23
+ - Adressleiste passt sich jetzt nach der Größe an.
+ - Codefehler bei der Adressleiste behoben.
+ - AutoComplete bei der Adressleiste hinzugefügt.
+ - Die vorherigen Urls werden in der Adressleiste gespeichert
+ - Statusbalken hinzugefügt.
+ - Media Player hinzugefügt.
+ - Das Wechseln zu Icon ist jetzt auf der rechten Seite.
+ - Bestätigung hinzugefügt, ob man ein neues Fenster im IE öffnen will oder nicht.
+ - Changelog vervollständigt mit der alten Versionen
+ - Das Fenster schließt sich mit "javascript:window.close()" jetzt einwandfrei.
+
+Version 0.22
+ - Icon beim Aktualisieren-Button hinzugefügt.
+ - Icon beim Startseiten-Button hinzugefügt.
+ - Icon beim Wechseln zu-Button hinzugefügt.
+ - Stop-Button in der Leiste hinzugefügt.
+ - URL-Erkennung in der Adressleiste verbessert.
+
+Version 0.21
+ - Fenstertitel aktualisiert sich, wenn eine Webseite geladen wird.
+ - Zurück, Weiter und Suchen-Button haben jetzt den passenden Tooltip-Text.
+ - Adressleiste zeigt jetzt die aktuelle URL der Webseite an.
+ - Aktualisieren-Button in der Symbolleiste hinzugefügt.
+ - Startseite-Button in der Symbolleiste hinzugefügt.
+ - Beim Starten des Browsers öffnet sich automatisch ein neues Fenster.
+ - Adressleiste lässt sich jetzt ausblenden
